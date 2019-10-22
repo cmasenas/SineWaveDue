@@ -9,3 +9,4 @@ Features:
 <li>Can produce two tones at once.
 <li>Can produce very low frequencies (below 1 Hz, low enough to blink an led) by increasing the sample time.
 </ul>
+A neat thing to try is to connect the sine wave DAC output pin to an ADC input pin to demonstrate data conversion full circle.
